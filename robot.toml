@@ -1,0 +1,8 @@
+paths = ["tests"]
+output-dir = "results"
+log-level = "INFO"
+
+[variables]
+BASE_URL = "https://sample-app-mu-ivory.vercel.app/"
+${USERNAME}    simonetest
+${PASSWORD}    test1234

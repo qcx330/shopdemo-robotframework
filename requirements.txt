@@ -1,0 +1,4 @@
+robotframework
+robotframework-requests
+robotframework-browser[bb]
+robotcode[runner,analyze]
